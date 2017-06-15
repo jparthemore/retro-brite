@@ -5,6 +5,8 @@ function Cell(width,height,color){
   this.color = color || 'red';
 }
 
+
+
 // const Cell = {
 //   width: 100,
 //   height: 100,
